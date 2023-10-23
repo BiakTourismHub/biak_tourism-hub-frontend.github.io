@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/biak_tourism-hub-frontend.github.io/static/css/main.142adaad.css",
+    "main.js": "/biak_tourism-hub-frontend.github.io/static/js/main.8393d1d0.js",
+    "static/js/787.90893ec9.chunk.js": "/biak_tourism-hub-frontend.github.io/static/js/787.90893ec9.chunk.js",
+    "index.html": "/biak_tourism-hub-frontend.github.io/index.html",
+    "main.142adaad.css.map": "/biak_tourism-hub-frontend.github.io/static/css/main.142adaad.css.map",
+    "main.8393d1d0.js.map": "/biak_tourism-hub-frontend.github.io/static/js/main.8393d1d0.js.map",
+    "787.90893ec9.chunk.js.map": "/biak_tourism-hub-frontend.github.io/static/js/787.90893ec9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.142adaad.css",
+    "static/js/main.8393d1d0.js"
+  ]
+}
